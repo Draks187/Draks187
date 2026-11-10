@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Raktim Biswas 👋
 
-<!--
-**Draks187/Draks187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student focused on **Python, Machine Learning and Data Analysis**.
+I build projects that solve real problems, from crop disease detection to emission forecasting.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+Python · Pandas · NumPy · Scikit-learn · TensorFlow/Keras · Matplotlib · SQL · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **[Plant Disease Detection](https://github.com/Draks187/Plant-Disease-Detection-System-for-Sustainable-Agriculture-using-AI-ML)**: CNN-based leaf disease classifier
+- **[Carbon Emission Prediction](https://github.com/Draks187/Carbon_Emission_Prediction)**: regression models on emission data
+- **[Stock Price Prediction](https://github.com/Draks187/Stock-Price-Prediction)**: time-series forecasting
+- **[AI Study Buddy](https://github.com/Draks187/AI-Study-Buddy)**: AI-powered study assistant
+
+## 📚 Currently Learning
+Deep learning, model deployment, and DSA
+
+## 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/raktim187/) · [Email](mailto:raktimbestukd187@gmail.com) · [ORCID](https://orcid.org/0009-0006-5084-617X)
