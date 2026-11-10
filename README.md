@@ -13,7 +13,7 @@ Python · Pandas · NumPy · Scikit-learn · TensorFlow/Keras · Matplotlib · S
 - **[AI Study Buddy](https://github.com/Draks187/AI-Study-Buddy)**: AI-powered study assistant
 
 ## 📚 Currently Learning
-Deep learning, model deployment, and DSA
+Deep Learning, Model Deployment, and DSA
 
 ## 📫 Connect
 [LinkedIn](https://www.linkedin.com/in/raktim187/) · [Email](mailto:raktimbestukd187@gmail.com) · [ORCID](https://orcid.org/0009-0006-5084-617X)
